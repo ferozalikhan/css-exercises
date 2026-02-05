@@ -7,6 +7,26 @@ img {
   height: 100px;
 }
 
+.info-container {
+
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+  
+}
+
+.img-container{
+
+  width: 200px;
+
+
+}
+
+.title{
+  text-align: center;
+  margin-bottom: 32px;
+}
+
 .title {
   font-size: 36px;
   font-weight: 900;
